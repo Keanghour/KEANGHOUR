@@ -44,8 +44,8 @@
   </li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<hr><br>
+<h3>Languages and Tools:</h3>
+<hr>
 <p align="left">
   <!-- Languages -->
   <strong>Languages:</strong>
@@ -62,6 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
 
+  <br><br>
   <!-- Web Development -->
   <strong>Web Development:</strong>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -80,6 +81,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
+  <br><br>
   <!-- Frameworks and Libraries -->
   <strong>Frameworks and Libraries:</strong>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -92,6 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
 
+  <br><br>
   <!-- Tools -->
   <strong>Tools:</strong>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -119,6 +122,7 @@
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
   </a>
 
+  <br><br>
   <!-- Design -->
   <strong>Design:</strong>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -131,6 +135,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 
+  <br><br>
   <!-- Testing -->
   <strong>Testing:</strong>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -155,7 +160,7 @@
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
   <a href="https://github.com/Keanghour">
-    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KEANGHOUR's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="KEANGHOUR's GitHub stats"/>
   </a>
 </div>
 
