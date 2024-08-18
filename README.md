@@ -1,22 +1,24 @@
 <hr>
-<div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+KEANGHOUR+PHO+%F0%9F%92%99" alt="Typing SVG" />
+</div>
 <hr>
 
-System Integration Developer
+<h2 align="center">System Integration Developer</h2>
 
-In this role, I develop the consumer application to fit the business needs. I need to provide accurate and quality applications, as well as conduct testing, locate potential problems, and solve them in an efficient manner.
+<p>In this role, I develop consumer applications to fit business needs. I provide accurate and high-quality applications, conduct testing, locate potential problems, and solve them efficiently.</p>
 
-Information:
-- 🌍  I'm based in Phnom Penh
-- ✉️  You can contact me at [phokeanghour12@gmail.com](mailto:phokeanghour12@gmail.com)
-- 🧠  I'm learning new Technologies and learning how to improve my personalize to make my work more efficient
-- 🤝  I'm open to collaborating on any opportunity to learn new things
-- ⚡  Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes.
+<h3>Information:</h3>
+<ul>
+  <li>🌍 I'm based in Phnom Penh</li>
+  <li>✉️ You can contact me at <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a></li>
+  <li>🧠 I'm learning new technologies and improving my skills to make my work more efficient</li>
+  <li>🤝 I'm open to collaborating on opportunities to learn new things</li>
+  <li>⚡ Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes</li>
+</ul>
 
-
-<h3 align="left">Key Skills:</h3>
-<ul align="left">
+<h3>Key Skills:</h3>
+<ul>
   <li><strong>API Development:</strong> Designing and building RESTful APIs</li>
   <li><strong>Integration Tools:</strong> Fiorano for enterprise integration</li>
   <li><strong>Programming Languages:</strong> 
@@ -41,10 +43,6 @@ Information:
     </ul>
   </li>
 </ul>
-
-
-
-### Skills
 
 <h3 align="left">Languages and Tools:</h3>
 <hr><br>
@@ -143,20 +141,27 @@ Information:
   </a>
 </p>
 
+<h3>Socials:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/keang.hour.7524" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pho-keanghour-27133b21b/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+</p>
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/keang.hour.7524" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pho-keanghour-27133b21b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Snake
-
-
-<p align="left" ><b>My GitHub Stats</b></p>
+<h3>GitHub Stats:</h3>
+<p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
-  <a href="https://github.com/Keanghour"><img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KEANGHOUR's GitHub stats" /></a>
+  <a href="https://github.com/Keanghour">
+    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KEANGHOUR's GitHub stats"/>
+  </a>
 </div>
-<div>
-<p align="left" ><b>Total Contributions</b></p>
+
 <div align="left">
-<a href="https://github.com/Keanghour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KEANGHOUR&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+  <p><b>Total Contributions</b></p>
+  <a href="https://github.com/Keanghour">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KEANGHOUR&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
 </div>
