@@ -11,7 +11,7 @@
 <h3>Information:</h3>
 <ul>
   <li>🌍 I'm based in Phnom Penh</li>
-  <li>✉️ You can contact me at <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a> <a href="095323346>Contact Number</a> </li>
+  <li>✉️ You can contact me at <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a><a href="095323346">Contact Number</a></li>
   <li>🧠 I'm learning new technologies and improving my skills to make my work more efficient</li>
   <li>🤝 I'm open to collaborating on opportunities to learn new things</li>
   <li>⚡ Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes</li>
