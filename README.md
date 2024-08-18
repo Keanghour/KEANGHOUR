@@ -15,7 +15,7 @@
   ✉️ You can contact me at 
   <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a> 
   | 
-  <a href="tel:+095323346">Contact Number</a>
+  <a href="tel:+095323346">Contact Number : 095 323 346</a>
 </li>
   <li>🧠 I'm learning new technologies and improving my skills to make my work more efficient</li>
   <li>🤝 I'm open to collaborating on opportunities to learn new things</li>
