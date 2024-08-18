@@ -159,8 +159,6 @@
   </a>
 </p>
 
-### Snake
-[![snake animation](https://github.com/Keanghour/Keanghour>/blob/output/github-contribution-grid-snake2.svg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw2ehgd4ip0sIRuO3kiRhHyB&ust=1724045879614000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj0m8Pp_YcDFQAAAAAdAAAAABAE)
 
 <h3>GitHub Stats:</h3>
 <p align="left"><b>My GitHub Stats</b></p>
