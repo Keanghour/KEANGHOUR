@@ -159,6 +159,9 @@
   </a>
 </p>
 
+### Snake
+![snake animation](https://github.com/Keanghour/Keanghour/blob/main/Snake)
+
 <h3>GitHub Stats:</h3>
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
