@@ -15,17 +15,39 @@ Information:
 - ⚡  Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes.
 
 
-Key Skills:
-•	API development
-•	Integration tools (Fiorano)
-•	Programming languages (Java, Python, PHP, Swift)
-•	Enterprise integration patterns
-•	Security algorithms (AES, RSA, ECB, CBC, DSA, Hash, Digital Signature, SHA256)
+<h3 align="left">Key Skills:</h3>
+<ul align="left">
+  <li><strong>API Development:</strong> Designing and building RESTful APIs</li>
+  <li><strong>Integration Tools:</strong> Fiorano for enterprise integration</li>
+  <li><strong>Programming Languages:</strong> 
+    <ul>
+      <li>Java</li>
+      <li>Python</li>
+      <li>PHP</li>
+      <li>Swift</li>
+    </ul>
+  </li>
+  <li><strong>Enterprise Integration Patterns:</strong> Implementing patterns for robust enterprise solutions</li>
+  <li><strong>Security Algorithms:</strong> 
+    <ul>
+      <li>AES</li>
+      <li>RSA</li>
+      <li>ECB</li>
+      <li>CBC</li>
+      <li>DSA</li>
+      <li>Hash</li>
+      <li>Digital Signature</li>
+      <li>SHA256</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 ### Skills
 
 <h3 align="left">Languages and Tools:</h3>
+<hr><br>
 <p align="left">
   <!-- Languages -->
   <strong>Languages:</strong>
