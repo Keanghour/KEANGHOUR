@@ -160,7 +160,7 @@
 </p>
 
 ### Snake
-![snake animation](https://github.com/Keanghour/Keanghour/blob/main/Snake)
+![snake animation](https://github.com/<seu KEANGHOUR PHO>/<seu KEANGHOUR PHO>/blob/output/github-contribution-grid-snake2.svg)
 
 <h3>GitHub Stats:</h3>
 <p align="left"><b>My GitHub Stats</b></p>
