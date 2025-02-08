@@ -50,11 +50,17 @@
   <li><strong>API Development:</strong> 🌐 Building RESTful APIs.</li>
   <li><strong>Integration Tools:</strong> 🔧 Fiorano for enterprise solutions.</li>
   <li><strong>Programming Languages:</strong> 💻 Java, Python, PHP, Swift.</li>
+  <li><strong>Data Formats:</strong> 📊 Working with JSON, XML/XSD, and OSF for data interchange.</li>
 </ul>
+
 <h3>Implementing Scalable Solutions:</h3>
 <ul>
-  <li><strong>Security Algorithms:</strong> 🔒 AES, RSA, ECB, PGP, EGP, CBC, DSA, SHA-256, Hashing, VPN.</li>
+  <li><strong>Cryptography:</strong> 🔒 AES, RSA, ECB, PGP, EGP, CBC, DSA.</li>
+  <li><strong>Encoding:</strong> 🔐 Base64, Hex (Base16).</li>
+  <li><strong>Hashing (MD & SHA Algorithms):</strong> 🧮 MD2, MD5, SHA-256.</li>
+  <li><strong>VPN:</strong> 🌐 VPN.</li>
 </ul>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
