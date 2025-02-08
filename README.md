@@ -28,7 +28,7 @@
   <li><strong>API Development:</strong> 🌐 Building RESTful APIs.</li>
   <li><strong>Integration Tools:</strong> 🔧 Fiorano for enterprise solutions.</li>
   <li><strong>Programming Languages:</strong> 💻 Java, Python, PHP, Swift.</li>
-  <li><strong>Enterprise Integration Patterns:</strong> 🔄 Implementing scalable solutions.</li>
+<h3>Implementing scalable solutions:</h3>
   <li><strong>Security Algorithms:</strong> 🔒 AES, RSA, ECB, PGP, CBC, DSA, SHA256.</li>
 </ul>
 
@@ -137,15 +137,16 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
 
-<h3>Socials:</h3>
-<p align="left">
+<strong>Socials:</strong>
   <a href="https://www.facebook.com/keang.hour.7524" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="selenium" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/pho-keanghour-27133b21b/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="margin-left: 1em;" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="32" height="32" alt="selenium" width="40" height="40" />
   </a>
-</p>
+  <a href="https://www.instagram.com/hour_zackry/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="32" height="32" alt="selenium" width="40" height="40" />
+  </a>
 
 <h3>GitHub Stats:</h3>
 <p align="left"><b>My GitHub Stats</b></p>
