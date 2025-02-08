@@ -40,6 +40,7 @@
       <li>AES</li>
       <li>RSA</li>
       <li>ECB</li>
+      <li>PGP</li>
       <li>CBC</li>
       <li>DSA</li>
       <li>Hash</li>
