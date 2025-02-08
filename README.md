@@ -24,9 +24,9 @@
 
 <h3>Key Skills:</h3>
 <ul>
-  <li><strong>API Development:</strong> Designing and building RESTful APIs</li>
-  <li><strong>Integration Tools:</strong> Fiorano for enterprise integration</li>
-  <li><strong>Programming Languages:</strong> 
+  <li><strong>API Development:</strong> Expertise in designing and building RESTful APIs.</li>
+  <li><strong>Integration Tools:</strong> Proficient in Fiorano for enterprise integration.</li>
+  <li><strong>Programming Languages:</strong>
     <ul>
       <li>Java</li>
       <li>Python</li>
@@ -34,21 +34,22 @@
       <li>Swift</li>
     </ul>
   </li>
-  <li><strong>Enterprise Integration Patterns:</strong> Implementing patterns for robust enterprise solutions</li>
-  <li><strong>Security Algorithms:</strong> 
+  <li><strong>Enterprise Integration Patterns:</strong> Implementing robust patterns for enterprise solutions.</li>
+  <li><strong>Security Algorithms:</strong>
     <ul>
-      <li>AES</li>
-      <li>RSA</li>
-      <li>ECB</li>
-      <li>PGP</li>
-      <li>CBC</li>
-      <li>DSA</li>
-      <li>Hash</li>
-      <li>Digital Signature</li>
-      <li>SHA256</li>
+      <li>AES (Advanced Encryption Standard)</li>
+      <li>RSA (Rivest-Shamir-Adleman)</li>
+      <li>ECB (Electronic Codebook)</li>
+      <li>PGP (Pretty Good Privacy)</li>
+      <li>CBC (Cipher Block Chaining)</li>
+      <li>DSA (Digital Signature Algorithm)</li>
+      <li>Hash Functions</li>
+      <li>Digital Signatures</li>
+      <li>SHA256 (Secure Hash Algorithm 256-bit)</li>
     </ul>
   </li>
 </ul>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <hr><br>
@@ -96,10 +97,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/>
 </a>
 
 <!-- Databases -->
