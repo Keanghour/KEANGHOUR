@@ -8,33 +8,56 @@
 
 <p>I develop consumer applications to fit business needs. I provide accurate and high-quality applications, conduct testing, locate potential problems, and solve them efficiently.</p>
 
-<h3>Information:</h3>
+<h3>About Me</h3>
+
+<p>👋 I'm <strong>KEANGHOUR PHO</strong>, based in Phnom Penh. I'm passionate about technology and constantly improving my skills. I studied <strong>Management Information Systems (MIS)</strong> at SETEC Institute, earning my Bachelor's in 2024 with a GPA of 3.41. I also completed a 6-month <strong>iOS Development</strong> course at Aditi Academy.</p>
+
+<p>🧠 I enjoy exploring new technologies and trends, and I'm committed to mastering new skills for greater <strong>efficiency</strong> and <strong>innovation</strong>.</p>
+
+<p>🤝 I’m open to collaboration and excited to work with like-minded individuals on innovative projects.</p>
+
+<p>⚡ In my free time, I stay updated on tech advancements, enjoy outdoor activities, and explore coastal landscapes that inspire me.</p>
+
+<p>📞 Feel free to reach out for work or to connect:</p>
+
 <ul>
-  <li>🌍 I'm based in Phnom Penh</li>
-  <li>
-  ✉️ You can contact me at 
-  <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a> 
-  | 
-  <a href="tel:+095323346">Contact Number : 095 323 346</a>
-  </li>
-  <li>🧠 I'm learning new technologies and improving my skills to make my work more efficient</li>
-  <li>🤝 I'm open to collaborating on opportunities to learn new things</li>
-  <li>⚡ Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes</li>
+  <li>📱 Phone: <a href="tel:+85595323346">+855 95 323 346</a></li>
+  <li>📨 Telegram: <a href="https://t.me/phokeanghour">@phokeanghour</a></li>
+  <li>📧 Email: <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a></li>
 </ul>
 
+<p><strong>My Strengths:</strong> 
+  <ul>
+    <li>Strong problem-solving and analytical skills</li>
+    <li>Quick learner, especially when it comes to new technologies</li>
+    <li>Effective communicator and collaborator</li>
+    <li>Dedication to continuous improvement and innovation</li>
+  </ul>
+</p>
+
+<p><strong>My Weaknesses:</strong>
+  <ul>
+    <li>Overthink decisions in pursuit of perfection.</li>
+    <li>Focus too much on details, slowing progress.</li>
+    <li>Prefer to take ownership, making it hard to delegate.</li>
+  </ul>
+</p>
+
+---
 
 <h3>Key Skills:</h3>
 <ul>
   <li><strong>API Development:</strong> 🌐 Building RESTful APIs.</li>
   <li><strong>Integration Tools:</strong> 🔧 Fiorano for enterprise solutions.</li>
   <li><strong>Programming Languages:</strong> 💻 Java, Python, PHP, Swift.</li>
-<h3>Implementing scalable solutions:</h3>
-  <li><strong>Security Algorithms:</strong> 🔒 AES, RSA, ECB, PGP, CBC, DSA, SHA256.</li>
+</ul>
+<h3>Implementing Scalable Solutions:</h3>
+<ul>
+  <li><strong>Security Algorithms:</strong> 🔒 AES, RSA, ECB, PGP, EGP, CBC, DSA, SHA-256, Hashing, VPN.</li>
 </ul>
 
-
 <h3 align="left">Languages and Tools:</h3>
-<hr><br>
+<hr>
 <p align="left">
   
 <!-- Languages -->
@@ -148,7 +171,9 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"  />
   </a>
 
+
 <h3>GitHub Stats:</h3>
+
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
   <a href="https://github.com/Keanghour">
