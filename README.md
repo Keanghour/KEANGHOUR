@@ -25,13 +25,12 @@
 
 <h3>Key Skills:</h3>
 <ul>
-  <li><strong>API Development:</strong> Building RESTful APIs.</li>
-  <li><strong>Integration Tools:</strong> Fiorano for enterprise solutions.</li>
-  <li><strong>Programming Languages:</strong> Java, Python, PHP, Swift.</li>
-  <li><strong>Enterprise Integration Patterns:</strong> Implementing scalable solutions.</li>
-  <li><strong>Security Algorithms:</strong> AES, RSA, ECB, PGP, CBC, DSA, SHA256.</li>
+  <li><strong>API Development:</strong> 🌐 Building RESTful APIs.</li>
+  <li><strong>Integration Tools:</strong> 🔧 Fiorano for enterprise solutions.</li>
+  <li><strong>Programming Languages:</strong> 💻 Java, Python, PHP, Swift.</li>
+  <li><strong>Enterprise Integration Patterns:</strong> 🔄 Implementing scalable solutions.</li>
+  <li><strong>Security Algorithms:</strong> 🔒 AES, RSA, ECB, PGP, CBC, DSA, SHA256.</li>
 </ul>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
