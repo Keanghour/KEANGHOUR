@@ -22,33 +22,16 @@
   <li>⚡ Staying up-to-date with the latest technological advancements, enjoying outdoor adventures in nature, and exploring coastal landscapes</li>
 </ul>
 
+
 <h3>Key Skills:</h3>
 <ul>
-  <li><strong>API Development:</strong> Expertise in designing and building RESTful APIs.</li>
-  <li><strong>Integration Tools:</strong> Proficient in Fiorano for enterprise integration.</li>
-  <li><strong>Programming Languages:</strong>
-    <ul>
-      <li>Java</li>
-      <li>Python</li>
-      <li>PHP</li>
-      <li>Swift</li>
-    </ul>
-  </li>
-  <li><strong>Enterprise Integration Patterns:</strong> Implementing robust patterns for enterprise solutions.</li>
-  <li><strong>Security Algorithms:</strong>
-    <ul>
-      <li>AES (Advanced Encryption Standard)</li>
-      <li>RSA (Rivest-Shamir-Adleman)</li>
-      <li>ECB (Electronic Codebook)</li>
-      <li>PGP (Pretty Good Privacy)</li>
-      <li>CBC (Cipher Block Chaining)</li>
-      <li>DSA (Digital Signature Algorithm)</li>
-      <li>Hash Functions</li>
-      <li>Digital Signatures</li>
-      <li>SHA256 (Secure Hash Algorithm 256-bit)</li>
-    </ul>
-  </li>
+  <li><strong>API Development:</strong> Building RESTful APIs.</li>
+  <li><strong>Integration Tools:</strong> Fiorano for enterprise solutions.</li>
+  <li><strong>Programming Languages:</strong> Java, Python, PHP, Swift.</li>
+  <li><strong>Enterprise Integration Patterns:</strong> Implementing scalable solutions.</li>
+  <li><strong>Security Algorithms:</strong> AES, RSA, ECB, PGP, CBC, DSA, SHA256.</li>
 </ul>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
