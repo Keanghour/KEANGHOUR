@@ -43,6 +43,12 @@
   </ul>
 </p>
 
+# Official Records and Proof of Completion
+
+Here’s my Certification and Transcript Information
+
+![Embedded Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
+
 ---
 
 <h3>Key Skills:</h3>
