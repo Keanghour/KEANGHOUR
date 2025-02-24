@@ -191,11 +191,16 @@ Here’s my Certification and Transcript Information
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
   <a href="https://github.com/Keanghour">
-    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KEANGHOUR's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="KEANGHOUR's GitHub stats"/>
   </a>
 </div>
 
+
 <div align="left">
   <p><b>Total Contributions</b></p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KEANGHOUR%20PHO&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KEANGHOUR%20PHO&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
+
+
