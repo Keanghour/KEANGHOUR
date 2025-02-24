@@ -26,6 +26,20 @@
   <li>📧 Email: <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a></li>
 </ul>
 
+<strong>Socials:</strong>
+<a href="https://t.me/phokeanghour" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />
+  </a>
+<a href="https://www.linkedin.com/in/pho-keanghour-27133b21b/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+  </a>
+  <a href="https://www.facebook.com/keang.hour.7524" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
+  </a>
+  <a href="https://www.instagram.com/hour_zackry/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"  />
+  </a>
+
 <p><strong>My Strengths:</strong> 
   <ul>
     <li>Strong problem-solving and analytical skills</li>
@@ -51,8 +65,6 @@ Here’s my Certification and Transcript Information
 [![Certification Icon](https://img.icons8.com/ios-filled/50/000000/certificate.png "Click to view Certification")](https://github.com/Keanghour/KEANGHOUR/blob/main/iOSCertification.PNG)  **iOSCertification**
 [![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")](https://raw.githubusercontent.com/Keanghour/KEANGHOUR/main/Transcript.jpg)  **OFFICIAL Transcript** &nbsp;&nbsp;
 [![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")]([https://github.com/Keanghour/KEANGHOUR/blob/main/INDUCTION%20PROGRAM.pdf](https://github.com/Keanghour/KEANGHOUR/blob/main/Resume.pdf))  **RESUME** &nbsp;&nbsp;
-
-
 
 
 ---
@@ -174,21 +186,6 @@ Here’s my Certification and Transcript Information
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
-
-<strong>Socials:</strong>
-<a href="https://t.me/phokeanghour" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />
-  </a>
-<a href="https://www.linkedin.com/in/pho-keanghour-27133b21b/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-  </a>
-  <a href="https://www.facebook.com/keang.hour.7524" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
-  </a>
-  <a href="https://www.instagram.com/hour_zackry/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"  />
-  </a>
-
 
 <h3>GitHub Stats:</h3>
 
