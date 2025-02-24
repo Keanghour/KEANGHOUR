@@ -197,7 +197,5 @@ Here’s my Certification and Transcript Information
 
 <div align="left">
   <p><b>Total Contributions</b></p>
-  <a href="https://github.com/Keanghour">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KEANGHOUR&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Keanghour%20Pho&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
