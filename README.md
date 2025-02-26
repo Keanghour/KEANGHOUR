@@ -186,7 +186,7 @@ Here’s my Certification and Transcript Information
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
 
-<h3>GitHub Stats:</h3>
+---
 
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
@@ -195,12 +195,15 @@ Here’s my Certification and Transcript Information
   </a>
 </div>
 
-
 <div align="left">
   <p><b>Total Contributions</b></p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KEANGHOUR%20PHO&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=keanghour&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</a>
 </div>
-
-
+<br>
+<div align="left">
+<a href="https://github.com/keanghour">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanghour&theme=tokyonight&border_radius=5" alt="Top Languages" />
+</a>
+</div>
