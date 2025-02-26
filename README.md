@@ -190,20 +190,21 @@ Here’s my Certification and Transcript Information
 
 <p align="left"><b>My GitHub Stats</b></p>
 <div align="left">
-  <a href="https://github.com/Keanghour">
-    <img src="https://github-readme-stats.vercel.app/api?username=KEANGHOUR&show_icons=true&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="KEANGHOUR's GitHub stats"/>
+  <a href="https://github.com/keanghour">
+    <img src="https://github-readme-stats.vercel.app/api?username=keanghour&show_icons=true&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="keanghour's GitHub stats"/>
   </a>
 </div>
 
 <div align="left">
   <p><b>Total Contributions</b></p>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=keanghour&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=keanghour&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+  </a>
 </div>
 <br>
 <div align="left">
-<a href="https://github.com/keanghour">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanghour&theme=tokyonight&border_radius=5" alt="Top Languages" />
-</a>
+  <a href="https://github.com/keanghour">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanghour&theme=tokyonight&border_radius=5" alt="Top Languages" />
+  </a>
 </div>
+
