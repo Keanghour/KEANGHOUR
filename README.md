@@ -70,9 +70,9 @@ Here’s my Certification and Transcript Information
   <li><strong>VPN:</strong> 🌐 VPN.</li>
 </ul>
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<hr>
 <p align="left">
   
 <!-- Languages -->
