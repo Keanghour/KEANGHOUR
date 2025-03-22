@@ -144,18 +144,9 @@ Here’s my Certification and Transcript Information
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-</a>
-
-<!-- Design -->
-<strong>Design:</strong>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
@@ -165,15 +156,25 @@ Here’s my Certification and Transcript Information
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://logolook.net/wp-content/uploads/2023/10/Photoshop-Logo.png" alt="photoshop" width="70" height="40"/>
 </a>
-
-<!-- Testing -->
-<strong>Testing:</strong>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
+<a href="https://github.com/keanghour" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Draw.io" width="40" height="40"/>
+</a>
+<a href="https://github.com/keanghour" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-512x512-2xmddtvm.png" alt="Draw.io" width="40" height="40"/>
+</a>
+<a href="https://www.soapui.org" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" alt="SoapUI" width="40" height="40"/>
+</a>
+
+
+
+
 
 ---
 
