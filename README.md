@@ -75,7 +75,7 @@ Here’s my Certification and Transcript Information
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Basic Knowledge of Languages and Tools:</h3>
 <p align="left">
   
 <!-- Languages -->
