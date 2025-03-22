@@ -18,14 +18,6 @@
 
 <p>⚡ In my free time, I stay updated on tech advancements, enjoy outdoor activities, and explore coastal landscapes that inspire me.</p>
 
-<p>📞 Feel free to reach out for work or to connect:</p>
-
-<ul>
-  <li>📱 Phone: <a href="tel:+85595323346">+855 95 323 346</a></li>
-  <li>📨 Telegram: <a href="https://t.me/phokeanghour">@phokeanghour</a></li>
-  <li>📧 Email: <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a></li>
-</ul>
-
 <p><strong>My Strengths:</strong> 
   <ul>
     <li>Strong problem-solving and analytical skills</li>
@@ -52,6 +44,16 @@ Here’s my Certification and Transcript Information
 [![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")](https://raw.githubusercontent.com/Keanghour/KEANGHOUR/main/Transcript.jpg)  **OFFICIAL Transcript** &nbsp;&nbsp;
 [![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")](https://github.com/Keanghour/KEANGHOUR/blob/main/Resume.pdf) **RESUME** &nbsp;&nbsp;
 
+
+---
+
+<p>📞 Feel free to reach out for work or to connect:</p>
+
+<ul>
+  <li>📱 Phone: <a href="tel:+85595323346">+855 95 323 346</a></li>
+  <li>📨 Telegram: <a href="https://t.me/phokeanghour">@phokeanghour</a></li>
+  <li>📧 Email: <a href="mailto:phokeanghour12@gmail.com">phokeanghour12@gmail.com</a></li>
+</ul>
 
 ---
 
