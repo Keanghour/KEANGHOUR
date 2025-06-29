@@ -44,10 +44,10 @@
 
 Here’s my Certification and Transcript Information
 
-[![Certification Icon](https://img.icons8.com/ios-filled/50/000000/certificate.png "Click to view Certification")](https://github.com/Keanghour/KEANGHOUR/blob/main/Certification.jpg)  **BACHELOR CERTIFICATE**
-[![Certification Icon](https://img.icons8.com/ios-filled/50/000000/certificate.png "Click to view Certification")](https://github.com/Keanghour/KEANGHOUR/blob/main/iOSCertification.PNG)  **iOSCertification**
-[![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")](https://raw.githubusercontent.com/Keanghour/KEANGHOUR/main/Transcript.jpg)  **OFFICIAL Transcript** &nbsp;&nbsp;
-[![Transcript Icon](https://img.icons8.com/ios-filled/50/000000/document.png "Click to view Transcript")](https://github.com/Keanghour/KEANGHOUR/blob/main/Resume.pdf) **RESUME** &nbsp;&nbsp;
+## 📄 Certification & Transcript  
+
+[![Bachelor's Certificate](https://img.icons8.com/ios-filled/24/000000/certificate.png)](https://github.com/Keanghour/KEANGHOUR/blob/main/Certification.jpg) **Bachelor's Certificate** &nbsp;&nbsp; [![iOS Certification](https://img.icons8.com/ios-filled/24/000000/certificate.png)](https://github.com/Keanghour/KEANGHOUR/blob/main/iOSCertification.PNG) **iOS Certification** &nbsp;&nbsp; [![Transcript](https://img.icons8.com/ios-filled/24/000000/document.png)](https://raw.githubusercontent.com/Keanghour/KEANGHOUR/main/Transcript.jpg) **Transcript** &nbsp;&nbsp; [![Resume](https://img.icons8.com/ios-filled/24/000000/document.png)](https://github.com/Keanghour/KEANGHOUR/blob/main/Resume.pdf) **Resume**
+
 
 
 ---
