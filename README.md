@@ -8,13 +8,13 @@
 
 <p align="center">
   Visit my portfolio website for more details: 
-  <a href="https://keanghour.github.io/keanghour.me/" target="_blank">keanghour.github.io/keanghour.me</a>
+  <a href="https://keanghour.github.io/keanghour.me/" target="_blank">Portfolio</a>
 </p>
 
 <p align="center">
   <strong>Zackry Media — Facebook Boosting, Poster Design & Digital Marketing Services</strong><br>
   <a href="https://keanghour.github.io/ZackryMediaPackages/menu.html" target="_blank">
-    keanghour.github.io/ZackryMediaPackages/menu.html
+    Zackry Media
   </a>
 </p>
 
